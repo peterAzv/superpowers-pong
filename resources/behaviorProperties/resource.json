@@ -1,0 +1,56 @@
+{
+  "behaviors": {
+    "Raquete1Comportamento": {
+      "scriptId": "15",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "velocidade",
+          "type": "number"
+        }
+      ]
+    },
+    "Raquete2Comportamento": {
+      "scriptId": "15",
+      "line": 20,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "velocidade",
+          "type": "number"
+        }
+      ]
+    },
+    "BolaBehavior": {
+      "scriptId": "14",
+      "line": 2,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "velocidade",
+          "type": "number"
+        },
+        {
+          "name": "dirX",
+          "type": "number"
+        },
+        {
+          "name": "dirY",
+          "type": "number"
+        }
+      ]
+    },
+    "BotaoComportamento": {
+      "scriptId": "22",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "isHover",
+          "type": "boolean"
+        }
+      ]
+    }
+  }
+}

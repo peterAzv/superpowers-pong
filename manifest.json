@@ -1,0 +1,7 @@
+{
+  "id": "xfma",
+  "name": "Pong",
+  "description": "Jogo de Pong básico - Som, Cenas, Colisão",
+  "systemId": "game",
+  "formatVersion": 5
+}
